@@ -28,6 +28,9 @@ Inspired by [awesome-python](https://github.com/avelino/awesome-python) & [aweso
 - [Reactiflux](http://www.reactiflux.com/)
 - [React.js Program](http://reactjsprogram.teachable.com/courses/reactjsfundamentals) *: If you were joined then send invite.* 
 
+### Emberjs
+- [Ember Community](http://emberjs.com/community/).  Use the [Slackin app](https://ember-community-slackin.herokuapp.com/) to receive an invitation.
+
 ### AngularJS
 - [Angularchat](http://angularchat.co/)
 - [Angular Buddies](http://www.angularbuddies.com/)
